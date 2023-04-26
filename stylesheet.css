@@ -1,0 +1,19 @@
+/* Add padding to page content */
+.page-content{
+    padding: 50px 600px;
+}
+  /* Set width of list container */
+.demo-list-control {
+    width: 300px;
+}
+  /* Style delete button */
+#delete-button {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+
+
+  
